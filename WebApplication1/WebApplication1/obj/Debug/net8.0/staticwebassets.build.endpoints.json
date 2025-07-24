@@ -29,7 +29,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 13:12:44 GMT"
+          "Value": "Thu, 24 Jul 2025 11:32:50 GMT"
         }
       ],
       "EndpointProperties": [
@@ -66,7 +66,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 13:12:44 GMT"
+          "Value": "Thu, 24 Jul 2025 11:32:50 GMT"
         }
       ],
       "EndpointProperties": [
@@ -4017,6 +4017,88 @@
         {
           "Name": "label",
           "Value": "lib/bootstrap/dist/js/bootstrap.js"
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootswatsh/bootstrap.min .css",
+      "AssetFile": "lib/bootswatsh/bootstrap.min .css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K50kRO31N8gEgqi3+WFxDJpwqCRP0fokJlV/2kRrgy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 08:45:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K50kRO31N8gEgqi3+WFxDJpwqCRP0fokJlV/2kRrgy0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootswatsh/bootstrap.min .jaj2rtcmsk.css",
+      "AssetFile": "lib/bootswatsh/bootstrap.min .css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K50kRO31N8gEgqi3+WFxDJpwqCRP0fokJlV/2kRrgy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 08:45:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jaj2rtcmsk"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K50kRO31N8gEgqi3+WFxDJpwqCRP0fokJlV/2kRrgy0="
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootswatsh/bootstrap.min .css"
         }
       ]
     },

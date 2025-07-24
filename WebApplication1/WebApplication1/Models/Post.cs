@@ -12,12 +12,12 @@ namespace WebApplication1.Models
         public string Title { get; set; }
         [Required(ErrorMessage = "the Contant isreqouird")]
 
-        public string Contant { get; set; }
+        public string Content { get; set; }
         [Required(ErrorMessage = "the Auther isreqouird")]
         [MaxLength(200, ErrorMessage = "the Auther is too long, max 200 characters")]
-        public string Auther { get; set; }
+        public string Author { get; set; }
 
-        public string ImagePath { get; set; }
+        public string FeatureImagePath { get; set; }
         [DataType(DataType.DateTime)]
         public DateTime PublishDate { get; set; } = DateTime.Now;
         [ForeignKey("Category")]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yD0L/kn9l2IOmigDU5a92luciDApSzLwtYw06n7XHB0=",
+  "Hash": "Rchj8Xw3gcdgq3yddaGUgGVFhHm3g8r4Y59NMtiI+FY=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -1065,6 +1065,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\source\\repos\\Blog-App\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootswatsh\\bootstrap.min .css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\source\\repos\\Blog-App\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/bootswatsh/bootstrap.min #[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jaj2rtcmsk",
+      "Integrity": "K50kRO31N8gEgqi3+WFxDJpwqCRP0fokJlV/2kRrgy0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootswatsh\\bootstrap.min .css"
     },
     {
       "Identity": "C:\\Users\\pc\\source\\repos\\Blog-App\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
@@ -5257,6 +5278,88 @@
       ]
     },
     {
+      "Route": "lib/bootswatsh/bootstrap.min .css",
+      "AssetFile": "C:\\Users\\pc\\source\\repos\\Blog-App\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootswatsh\\bootstrap.min .css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K50kRO31N8gEgqi3+WFxDJpwqCRP0fokJlV/2kRrgy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 08:45:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K50kRO31N8gEgqi3+WFxDJpwqCRP0fokJlV/2kRrgy0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootswatsh/bootstrap.min .jaj2rtcmsk.css",
+      "AssetFile": "C:\\Users\\pc\\source\\repos\\Blog-App\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootswatsh\\bootstrap.min .css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K50kRO31N8gEgqi3+WFxDJpwqCRP0fokJlV/2kRrgy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Jul 2025 08:45:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jaj2rtcmsk"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootswatsh/bootstrap.min .css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K50kRO31N8gEgqi3+WFxDJpwqCRP0fokJlV/2kRrgy0="
+        }
+      ]
+    },
+    {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
       "AssetFile": "C:\\Users\\pc\\source\\repos\\Blog-App\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
@@ -6263,7 +6366,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 13:12:44 GMT"
+          "Value": "Thu, 24 Jul 2025 11:32:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6300,7 +6403,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 13:12:44 GMT"
+          "Value": "Thu, 24 Jul 2025 11:32:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6337,7 +6440,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 13:12:44 GMT"
+          "Value": "Thu, 24 Jul 2025 11:32:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6382,7 +6485,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 23 Jul 2025 13:12:44 GMT"
+          "Value": "Thu, 24 Jul 2025 11:32:50 GMT"
         },
         {
           "Name": "Cache-Control",
