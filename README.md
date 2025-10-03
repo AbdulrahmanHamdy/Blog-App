@@ -95,8 +95,7 @@ Ctrl + F5
 
 | Home Page | Post Form |
 |-----------|-----------|
-| ![Home](scree![Screenshot 2025-10-03 195912](https://github.com/user-attachments/assets/ecf60f52-fd2c-463e-a9f8-9b2a0b916487)
-nshots/home.png) | ![Create Post](screen![Screenshot 2025-10-03 195932](https://github.com/user-attachments/assets/b6121362-f4c5-4e46-a513-953065e28f45)
+| ![Home](scree![Screenshot 2025-10-03 195912](https://github.com/user-attachments/assets/ecf60f52-fd2c-463e-a9f8-9b2a0b916487)| ![Create Post](https://github.com/user-attachments/assets/b6121362-f4c5-4e46-a513-953065e28f45)
 shots/create.png) |
 
 ---
