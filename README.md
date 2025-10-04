@@ -149,7 +149,7 @@ public class Category {
 
 **Abdelrahman Hamdy**  
 📧 Email: abdohamdy@gmail.com  
-🔗 GitHub: [github.com/AbdulrehmanHamdy](https://github.com/AbdulrehmanHamdy)
+🔗 GitHub: [github.com/AbdulrehmanHamdy](https://github.com/AbdulrahmanHamdy)
 
 ---
 
