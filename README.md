@@ -148,8 +148,8 @@ public class Category {
 ## 📬 Contact
 
 **Abdelrahman Hamdy**  
-📧 Email: your.email@example.com  
-🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
+📧 Email: abdohamdy@gmail.com  
+🔗 GitHub: [github.com/AbdulrehmanHamdy](https://github.com/AbdulrehmanHamdy)
 
 ---
 
