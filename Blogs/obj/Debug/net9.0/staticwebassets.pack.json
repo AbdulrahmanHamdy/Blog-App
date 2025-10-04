@@ -1,344 +1,344 @@
 {
   "Files": [
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\SyncSyntax.bundle.scp.css",
-      "PackagePath": "staticwebassets\\SyncSyntax.t0c1jl2atc.bundle.scp.css"
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BLog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BLog.7m68ltlury.bundle.scp.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\css\\site.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\favicon.ico",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\04dfe5b7-2031-4370-8c99-a91267f1ac69.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\04dfe5b7-2031-4370-8c99-a91267f1ac69.jpg",
       "PackagePath": "staticwebassets\\images\\04dfe5b7-2031-4370-8c99-a91267f1ac69.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\220f4379-ed43-40ac-8feb-0d964d342491.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\220f4379-ed43-40ac-8feb-0d964d342491.jpg",
       "PackagePath": "staticwebassets\\images\\220f4379-ed43-40ac-8feb-0d964d342491.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\57e492c2-9c26-4f68-9459-f6e95b6d1aa5.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\57e492c2-9c26-4f68-9459-f6e95b6d1aa5.jpg",
       "PackagePath": "staticwebassets\\images\\57e492c2-9c26-4f68-9459-f6e95b6d1aa5.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\74d00874-2e14-4308-9917-de213af970e2.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\74d00874-2e14-4308-9917-de213af970e2.jpg",
       "PackagePath": "staticwebassets\\images\\74d00874-2e14-4308-9917-de213af970e2.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\92d93e5b-a48f-46b9-9277-c6add45ed0e9.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\92d93e5b-a48f-46b9-9277-c6add45ed0e9.jpg",
       "PackagePath": "staticwebassets\\images\\92d93e5b-a48f-46b9-9277-c6add45ed0e9.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\b88b37e7-df78-4397-ba2e-f8215fec242d.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\b88b37e7-df78-4397-ba2e-f8215fec242d.jpg",
       "PackagePath": "staticwebassets\\images\\b88b37e7-df78-4397-ba2e-f8215fec242d.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\c05cd272-03b6-44be-bddd-e5a2ade9afaa.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\c05cd272-03b6-44be-bddd-e5a2ade9afaa.jpg",
       "PackagePath": "staticwebassets\\images\\c05cd272-03b6-44be-bddd-e5a2ade9afaa.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\c1040f81-9770-43e6-864b-89b990ec313a.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\c1040f81-9770-43e6-864b-89b990ec313a.jpg",
       "PackagePath": "staticwebassets\\images\\c1040f81-9770-43e6-864b-89b990ec313a.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\c7d8d157-78b7-47ad-921f-b0daaf207d3e.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\c7d8d157-78b7-47ad-921f-b0daaf207d3e.jpg",
       "PackagePath": "staticwebassets\\images\\c7d8d157-78b7-47ad-921f-b0daaf207d3e.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\cb896230-8cb0-4b12-9015-73384d2df884.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\cb896230-8cb0-4b12-9015-73384d2df884.jpg",
       "PackagePath": "staticwebassets\\images\\cb896230-8cb0-4b12-9015-73384d2df884.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\e743ac8a-0fc4-4505-ae3a-b4f74ddec0b7.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\e743ac8a-0fc4-4505-ae3a-b4f74ddec0b7.jpg",
       "PackagePath": "staticwebassets\\images\\e743ac8a-0fc4-4505-ae3a-b4f74ddec0b7.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\eb2f659f-c0fb-47e3-b1d4-873648032fde.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\eb2f659f-c0fb-47e3-b1d4-873648032fde.jpg",
       "PackagePath": "staticwebassets\\images\\eb2f659f-c0fb-47e3-b1d4-873648032fde.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\efe6249e-6ad2-4fee-8c42-c661731295e9.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\efe6249e-6ad2-4fee-8c42-c661731295e9.jpg",
       "PackagePath": "staticwebassets\\images\\efe6249e-6ad2-4fee-8c42-c661731295e9.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\f49a12b1-8ffc-4501-a000-7b18cd24002e.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\f49a12b1-8ffc-4501-a000-7b18cd24002e.jpg",
       "PackagePath": "staticwebassets\\images\\f49a12b1-8ffc-4501-a000-7b18cd24002e.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\images\\f9f05822-a6da-44e6-8ddc-cb69613caab5.jpg",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\images\\f9f05822-a6da-44e6-8ddc-cb69613caab5.jpg",
       "PackagePath": "staticwebassets\\images\\f9f05822-a6da-44e6-8ddc-cb69613caab5.jpg"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\js\\site.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\bootswatch\\bootstrap.min.css",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\bootswatch\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootswatch\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "D:\\ITI\\Blog-App\\SyncSyntax\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "D:\\ITI\\Blog-App\\Blogs\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SyncSyntax.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BLog.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.SyncSyntax.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BLog.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.SyncSyntax.props",
-      "PackagePath": "build\\SyncSyntax.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BLog.props",
+      "PackagePath": "build\\BLog.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.SyncSyntax.props",
-      "PackagePath": "buildMultiTargeting\\SyncSyntax.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BLog.props",
+      "PackagePath": "buildMultiTargeting\\BLog.props"
     },
     {
-      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.SyncSyntax.props",
-      "PackagePath": "buildTransitive\\SyncSyntax.props"
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BLog.props",
+      "PackagePath": "buildTransitive\\BLog.props"
     }
   ],
   "ElementsToRemove": []

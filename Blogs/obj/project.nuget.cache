@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nJtNyqoAazM=",
+  "dgSpecHash": "Rx0AoRq+i20=",
   "success": true,
-  "projectFilePath": "D:\\ITI\\Blog-App\\SyncSyntax\\SyncSyntax.csproj",
+  "projectFilePath": "D:\\ITI\\Blog-App\\Blogs\\BLog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
